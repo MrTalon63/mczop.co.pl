@@ -2,7 +2,7 @@ function App() {
   return (
     <main>
       <div class="bg-white dark:bg-gray-800 p-10 min-h-screen flex items-center justify-center space-x-16">
-        <img class="w-64 h-64 rounded-full md:h-auto md:w-48s" src='https://assets.analitycy.host/czop.ru/images/talon.png'></img>
+        <img class="w-64 h-64 rounded-full md:h-auto md:w-48s" src='https://assets.analitycy.host/czop.ru/images/talon.gif'></img>
         <span>
           <a className="text-black dark:text-white text-3xl">Marcin "MrTalon63" Czop</a>
           <br />
